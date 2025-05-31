@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Cileasy</title><link>https://cileasy.github.io</link><description>技巧分享</description><copyright>Cileasy</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/191880700?s=48&amp;v=4</url><title>avatar</title><link>https://cileasy.github.io</link></image><lastBuildDate>Sat, 31 May 2025 12:59:58 +0000</lastBuildDate><managingEditor>Cileasy</managingEditor><ttl>60</ttl><webMaster>Cileasy</webMaster><item><title>重启ssh服务出现Redirecting to /bin/systemctl restart sshd.service - Centos报错的解决办法</title><link>https://cileasy.github.io/post/zhong-qi-ssh-fu-wu-chu-xian-Redirecting%20to%20-bin-systemctl%20restart%20sshd.service%20-%20Centos-bao-cuo-de-jie-jue-ban-fa.html</link><description>1、启动ssh服务
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Cileasy</title><link>https://cileasy.github.io</link><description>技巧分享</description><copyright>Cileasy</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/191880700?s=48&amp;v=4</url><title>avatar</title><link>https://cileasy.github.io</link></image><lastBuildDate>Sat, 31 May 2025 13:02:16 +0000</lastBuildDate><managingEditor>Cileasy</managingEditor><ttl>60</ttl><webMaster>Cileasy</webMaster><item><title>重启ssh服务出现Redirecting to /bin/systemctl restart sshd.service - 的解决办法</title><link>https://cileasy.github.io/post/zhong-qi-ssh-fu-wu-chu-xian-Redirecting%20to%20-bin-systemctl%20restart%20sshd.service%20-%20-de-jie-jue-ban-fa.html</link><description>1、启动ssh服务
 
 `systemctl start sshd.service`
 
@@ -17,7 +17,7 @@
 
 ![chrome_uxF673W9IQ.png](https://img.987531.xyz/file/1748696268336_chrome_uxF673W9IQ.png)
 
-### 看到running就代表成功了。</description><guid isPermaLink="true">https://cileasy.github.io/post/zhong-qi-ssh-fu-wu-chu-xian-Redirecting%20to%20-bin-systemctl%20restart%20sshd.service%20-%20Centos-bao-cuo-de-jie-jue-ban-fa.html</guid><pubDate>Sat, 31 May 2025 12:59:32 +0000</pubDate></item><item><title>谷歌云服务器不用自带SSH连接的解决办法-用root账户登录</title><link>https://cileasy.github.io/post/gu-ge-yun-fu-wu-qi-bu-yong-zi-dai-SSH-lian-jie-de-jie-jue-ban-fa---yong-root-zhang-hu-deng-lu.html</link><description># 修改ssh配置文件并设置root密码
+### 看到running就代表成功了。</description><guid isPermaLink="true">https://cileasy.github.io/post/zhong-qi-ssh-fu-wu-chu-xian-Redirecting%20to%20-bin-systemctl%20restart%20sshd.service%20-%20-de-jie-jue-ban-fa.html</guid><pubDate>Sat, 31 May 2025 12:59:32 +0000</pubDate></item><item><title>谷歌云服务器不用自带SSH连接的解决办法-用root账户登录</title><link>https://cileasy.github.io/post/gu-ge-yun-fu-wu-qi-bu-yong-zi-dai-SSH-lian-jie-de-jie-jue-ban-fa---yong-root-zhang-hu-deng-lu.html</link><description># 修改ssh配置文件并设置root密码
 
 1、用自带的SSH登录到服务器
 
