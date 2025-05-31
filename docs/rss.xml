@@ -1,5 +1,44 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Cileasy</title><link>https://cileasy.github.io</link><description>技巧分享</description><copyright>Cileasy</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/191880700?s=48&amp;v=4</url><title>avatar</title><link>https://cileasy.github.io</link></image><lastBuildDate>Sat, 31 May 2025 12:13:41 +0000</lastBuildDate><managingEditor>Cileasy</managingEditor><ttl>60</ttl><webMaster>Cileasy</webMaster><item><title>免费Google云VPS-注册-DD系统教程</title><link>https://cileasy.github.io/post/mian-fei-Google-yun-VPS--zhu-ce--DD-xi-tong-jiao-cheng.html</link><description># 一、注册和验证谷歌云账号
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Cileasy</title><link>https://cileasy.github.io</link><description>技巧分享</description><copyright>Cileasy</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/191880700?s=48&amp;v=4</url><title>avatar</title><link>https://cileasy.github.io</link></image><lastBuildDate>Sat, 31 May 2025 12:48:33 +0000</lastBuildDate><managingEditor>Cileasy</managingEditor><ttl>60</ttl><webMaster>Cileasy</webMaster><item><title>谷歌云服务器不用自带SSH连接的解决办法-用root账户登录</title><link>https://cileasy.github.io/post/gu-ge-yun-fu-wu-qi-bu-yong-zi-dai-SSH-lian-jie-de-jie-jue-ban-fa---yong-root-zhang-hu-deng-lu.html</link><description># 修改ssh配置文件并设置root密码
+
+1、用自带的SSH登录到服务器
+
+2、切换到root账户
+
+`sudo -i`
+
+![Joplin_HcPJgnYlj7.png](https://img.987531.xyz/file/1748694342060_Joplin_HcPJgnYlj7.png)
+
+3、编辑sshd配置文件
+
+`vim /etc/ssh/sshd_config`
+
+![Joplin_Uk0e8mvf3l.png](https://img.987531.xyz/file/1748694476796_Joplin_Uk0e8mvf3l.png)
+
+4、修改以下内容
+
+按键盘【i】进入编辑，按【Esc】退出编辑，再输入 **:wq** 保存并退出
+
+![Joplin_YoYmbsyamo.png](https://img.987531.xyz/file/1748694557144_Joplin_YoYmbsyamo.png)
+
+5、重启sshd服务
+
+`service sshd restart`
+
+![123.png](https://img.987531.xyz/file/1748694889351_123.png)
+
+6、为root账户设置密码
+
+`passwd`
+
+![Joplin_TNZyFH4WCj.png](https://img.987531.xyz/file/1748694634460_Joplin_TNZyFH4WCj.png)
+
+输入密码的时候不会显示出来，所以直接输入密码，然后回车，再然后重复输入密码回车
+
+![1234.png](https://img.987531.xyz/file/1748694987569_1234.png)
+
+
+# 然后用SHELL工具用root账号密码连接就可以了。</description><guid isPermaLink="true">https://cileasy.github.io/post/gu-ge-yun-fu-wu-qi-bu-yong-zi-dai-SSH-lian-jie-de-jie-jue-ban-fa---yong-root-zhang-hu-deng-lu.html</guid><pubDate>Sat, 31 May 2025 12:40:17 +0000</pubDate></item><item><title>免费Google云VPS-注册-DD系统教程</title><link>https://cileasy.github.io/post/mian-fei-Google-yun-VPS--zhu-ce--DD-xi-tong-jiao-cheng.html</link><description># 一、注册和验证谷歌云账号
 
 1、注册账号，用[“美国人信息生成器”](https://www.meiguodizhi.com/)的信息填写
 [注册地址](https://cloud.google.com/?hl=zh_cn)
