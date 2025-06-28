@@ -1,5 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Cileasy</title><link>https://cileasy.github.io</link><description>技巧分享</description><copyright>Cileasy</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/191880700?s=48&amp;v=4</url><title>avatar</title><link>https://cileasy.github.io</link></image><lastBuildDate>Sat, 31 May 2025 13:04:08 +0000</lastBuildDate><managingEditor>Cileasy</managingEditor><ttl>60</ttl><webMaster>Cileasy</webMaster><item><title>解决-重启ssh服务出现Redirecting to /bin/systemctl restart sshd.service</title><link>https://cileasy.github.io/post/jie-jue---zhong-qi-ssh-fu-wu-chu-xian-Redirecting%20to%20-bin-systemctl%20restart%20sshd.service.html</link><description>1、启动ssh服务
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Cileasy</title><link>https://cileasy.github.io</link><description>技巧分享</description><copyright>Cileasy</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/191880700?s=48&amp;v=4</url><title>avatar</title><link>https://cileasy.github.io</link></image><lastBuildDate>Sat, 28 Jun 2025 14:25:38 +0000</lastBuildDate><managingEditor>Cileasy</managingEditor><ttl>60</ttl><webMaster>Cileasy</webMaster><item><title>公益科学上网、在自由的网络世界驰骋</title><link>https://cileasy.github.io/post/gong-yi-ke-xue-shang-wang-%E3%80%81-zai-zi-you-de-wang-luo-shi-jie-chi-cheng.html</link><description>![自由.png](https://img.987531.xyz/file/1735739403930_自由.png)
+
+- # 代理：搭配V2ray等代理软件使用
+    
+    ### 订阅链接：https://f.cileasy.org/CI?sub
+    
+    ### 订阅链接（优选IP）：https://f.cileasy.org/CI?sub=VLESS.fxxk.dedyn.io
+    
+    ### 代理节点（直接复制导入）：搭配V2ray等代理软件使用
+    
+	vless://0b986b7f-fb2c-45ad-935a-d7d549c19816@190.93.245.200:443?encryption=none&amp;security=tls&amp;sni=f.cileasy.org&amp;fp=random&amp;type=ws&amp;host=f.cileasy.org&amp;path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+
+	vless://0b986b7f-fb2c-45ad-935a-d7d549c19816@188.114.99.28:443?encryption=none&amp;security=tls&amp;sni=f.cileasy.org&amp;fp=random&amp;type=ws&amp;host=f.cileasy.org&amp;path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+
+	vless://0b986b7f-fb2c-45ad-935a-d7d549c19816@104.24.26.238:443?encryption=none&amp;security=tls&amp;sni=f.cileasy.org&amp;fp=random&amp;type=ws&amp;host=f.cileasy.org&amp;path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+
+	vless://0b986b7f-fb2c-45ad-935a-d7d549c19816@104.16.178.124:443?encryption=none&amp;security=tls&amp;sni=f.cileasy.org&amp;fp=random&amp;type=ws&amp;host=f.cileasy.org&amp;path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+
+	vless://0b986b7f-fb2c-45ad-935a-d7d549c19816@103.21.244.38:443?encryption=none&amp;security=tls&amp;sni=f.cileasy.org&amp;fp=random&amp;type=ws&amp;host=f.cileasy.org&amp;path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+
+	vless://0b986b7f-fb2c-45ad-935a-d7d549c19816@104.24.133.250:443?encryption=none&amp;security=tls&amp;sni=f.cileasy.org&amp;fp=random&amp;type=ws&amp;host=f.cileasy.org&amp;path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+
+	vless://0b986b7f-fb2c-45ad-935a-d7d549c19816@104.16.69.45:443?encryption=none&amp;security=tls&amp;sni=f.cileasy.org&amp;fp=random&amp;type=ws&amp;host=f.cileasy.org&amp;path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+
+	vless://0b986b7f-fb2c-45ad-935a-d7d549c19816@103.21.244.207:443?encryption=none&amp;security=tls&amp;sni=f.cileasy.org&amp;fp=random&amp;type=ws&amp;host=f.cileasy.org&amp;path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+
+    
+- # 自由上网浏览器（'Alvin9999'大佬的项目-自行研究）：解压直接运行就行
+    
+    [自由上网浏览器](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88/)
+    
+- # 免费vpn软件（安卓）：免费但不推荐
+    
+    [自由门](https://d2.freessr2.xyz/fgma50.apk)
+    
+    [无界一点通 5.0](https://d2.freessr2.xyz/um50.apk)
+    
+- # ss免费账号：搭配V2ray等代理软件使用
+    
+    [获取SS账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
+    
+- # 免费美区账号(ios)：用于下载代理软件等
+    
+    [美区账号（只在应用商店登录）](https://www.cileasy.org/)。</description><guid isPermaLink="true">https://cileasy.github.io/post/gong-yi-ke-xue-shang-wang-%E3%80%81-zai-zi-you-de-wang-luo-shi-jie-chi-cheng.html</guid><pubDate>Sat, 28 Jun 2025 14:25:13 +0000</pubDate></item><item><title>解决-重启ssh服务出现Redirecting to /bin/systemctl restart sshd.service</title><link>https://cileasy.github.io/post/jie-jue---zhong-qi-ssh-fu-wu-chu-xian-Redirecting%20to%20-bin-systemctl%20restart%20sshd.service.html</link><description>1、启动ssh服务
 
 `systemctl start sshd.service`
 
