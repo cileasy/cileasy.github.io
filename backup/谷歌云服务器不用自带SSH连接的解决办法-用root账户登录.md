@@ -20,7 +20,7 @@
 
 ![Joplin_YoYmbsyamo.png](https://img.987531.xyz/file/blog/1753186767015_Joplin_YoYmbsyamo.png)
 
-5、重启sshd服务（若报错可以查看文章[重启ssh服务报错](https://blog.987531.xyz/post/jie-jue---zhong-qi-ssh-fu-wu-chu-xian-Redirecting%20to%20-bin-systemctl%20restart%20sshd.service.html)
+5、重启sshd服务（若报错可以查看文章[重启ssh服务报错](https://blog.987531.xyz/post/jie-jue---zhong-qi-ssh-fu-wu-chu-xian-Redirecting%20to%20-bin-systemctl%20restart%20sshd.service.html)）
 
 `service sshd restart`
 
