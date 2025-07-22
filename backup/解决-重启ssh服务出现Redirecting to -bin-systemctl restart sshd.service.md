@@ -15,4 +15,4 @@
 `systemctl status sshd.service`
 
 ![chrome_uxF673W9IQ.png](https://img.987531.xyz/file/blog/1753187016981_chrome_uxF673W9IQ.png)
-### 看到running就代表成功了
+### 看到running就代表成功了.
