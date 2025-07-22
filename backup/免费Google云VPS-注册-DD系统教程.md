@@ -4,26 +4,25 @@
 [注册地址](https://cloud.google.com/?hl=zh_cn)
 [美国人信息生成器](https://www.meiguodizhi.com/)
 
- 2、添加付款方式：需要外币信用卡或借记卡！！（可重复使用）![G1.png](https://img.987531.xyz/file/1748691384709_G1.png)
+ 2、添加付款方式：需要外币信用卡或借记卡！！（可重复使用）![G1.png](https://img.987531.xyz/file/blog/1753186014483_G1.png)
 _注意：不要立即点击“激活完整账号”，三个月试用期过后再点击。原来已撸过3个月试用的旧账号，依然有效。_
 
 # 二、创建完全免费的VM实例
 ## 完全免费的配置选择：
 1、地区：俄勒冈、爱荷华或南卡罗来纳（建议俄勒冈）
-
+![G2.png](https://img.987531.xyz/file/blog/1753186089988_G2.png)
 2、机器配置：E2-micro
-![g3.png](https://img.987531.xyz/file/1748691968931_g3.png)
+![g3.png](https://img.987531.xyz/file/blog/1753186271759_g3.png)
 
 3、操作系统：Linux系统（推荐Debian）
 
 4、存储空间：标准永久性磁盘 30GB （数据保护 - 快照时间表，要改为“无备份”，否则会收费）
-![g4.png](https://img.987531.xyz/file/1748692072276_g4.png)
+![g4.png](https://img.987531.xyz/file/blog/1753186164997_g4.png)
 
 5、网络服务层级：标准
-![g5.png](https://img.987531.xyz/file/1748692168196_g5.png)
-
+![g5.png](https://img.987531.xyz/file/blog/1753186349957_g5.png)
 # 三、创建防火墙规则（vps创建完后）:名称随便填写、目标：网络中所以实例、来源范围：0.0.0.0/0
-![g6.png](https://img.987531.xyz/file/1748692519817_g6.png)
+![g6.png](https://img.987531.xyz/file/blog/1753186380250_g6.png)
 _图示为开放所以端口，根据实际情况修改_
 
 # 四、DD系统（谷歌的系统个人觉得不好用）非必须
