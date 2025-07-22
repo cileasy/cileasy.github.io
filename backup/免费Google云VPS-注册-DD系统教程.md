@@ -25,7 +25,7 @@ _注意：不要立即点击“激活完整账号”，三个月试用期过后�
 ![g6.png](https://img.987531.xyz/file/blog/1753186380250_g6.png)
 _图示为开放所以端口，根据实际情况修改_
 
-# 四、DD系统（谷歌的系统个人觉得不好用）非必须
+# 四、DD系统非必须（用自带的ssh也可以或者查看这篇文章修改密码-[修改密码](https://blog.987531.xyz/post/gu-ge-yun-fu-wu-qi-bu-yong-zi-dai-SSH-lian-jie-de-jie-jue-ban-fa---yong-root-zhang-hu-deng-lu.html)）
 1、点击右侧SSH连接到VPS
 
 2、切换到root权限
