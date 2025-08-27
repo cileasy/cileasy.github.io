@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Cileasy</title><link>https://cileasy.github.io</link><description>📸岁月剪影：定格瞬间，珍藏永恒，以梦为马，书写人生</description><copyright>Cileasy</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn4.iconfinder.com/data/icons/space-technology-26/50/39_captain_badge_wrist_badge_badge_captain_C_alphabet-64.png</url><title>avatar</title><link>https://cileasy.github.io</link></image><lastBuildDate>Wed, 27 Aug 2025 11:08:19 +0000</lastBuildDate><managingEditor>Cileasy</managingEditor><ttl>60</ttl><webMaster>Cileasy</webMaster><item><title>网页视频下载不完全攻略。。。。</title><link>https://cileasy.github.io/post/wang-ye-shi-pin-xia-zai-bu-wan-quan-gong-lve-%E3%80%82%E3%80%82%E3%80%82%E3%80%82.html</link><description>### 提供四种下载方法
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Cileasy</title><link>https://cileasy.github.io</link><description>📸岁月剪影：定格瞬间，珍藏永恒，以梦为马，书写人生</description><copyright>Cileasy</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn4.iconfinder.com/data/icons/space-technology-26/50/39_captain_badge_wrist_badge_badge_captain_C_alphabet-64.png</url><title>avatar</title><link>https://cileasy.github.io</link></image><lastBuildDate>Wed, 27 Aug 2025 11:09:14 +0000</lastBuildDate><managingEditor>Cileasy</managingEditor><ttl>60</ttl><webMaster>Cileasy</webMaster><item><title>网页视频下载不完全攻略。。。。</title><link>https://cileasy.github.io/post/wang-ye-shi-pin-xia-zai-bu-wan-quan-gong-lve-%E3%80%82%E3%80%82%E3%80%82%E3%80%82.html</link><description>### 提供四种下载方法
 
-**### 一、用IDM下载（推荐）**
+###  **一、用IDM下载（推荐）**
 1、下载[IDM破解版](https://wj.987531.xyz/windows/IDM.zip)
 
 2、解压下载的IDM压缩包
@@ -24,19 +24,19 @@ _文件越大清晰度越高_
 6、把IDM的下载线程数，调到32，下载更快
 ![55.png](https://im.987531.xyz/file/1756292670225_55.png)
 
-**### 二、通过NDM下载（开源免费，效果不如IDM）**
+### **二、通过NDM下载（开源免费，效果不如IDM）**
 
 _直接安装就可以了，和IDM类似_
 下载链接：[NDM](https://wj.987531.xyz/windows/NeatDM_setup.exe)
 
 
-**### 三、用猫抓插件（极其强大，步骤稍显麻烦）**
+### **三、用猫抓插件（极其强大，步骤稍显麻烦）**
 
 _以下附上xifangczy大佬的项目地址_
 [猫抓浏览器插件教程](https://github.com/xifangczy/cat-catch)
 
 
-**### 四、用网页解析下载**
+### **四、用网页解析下载**
 
 ![5-7.png](https://im.987531.xyz/file/1756292188556_5-7.png)
 _在输入框粘贴网页链接解析下载_
