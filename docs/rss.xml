@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Cileasy</title><link>https://cileasy.github.io</link><description>📸岁月剪影：定格瞬间，珍藏永恒，以梦为马，书写人生</description><copyright>Cileasy</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn4.iconfinder.com/data/icons/space-technology-26/50/39_captain_badge_wrist_badge_badge_captain_C_alphabet-64.png</url><title>avatar</title><link>https://cileasy.github.io</link></image><lastBuildDate>Wed, 05 Nov 2025 12:43:24 +0000</lastBuildDate><managingEditor>Cileasy</managingEditor><ttl>60</ttl><webMaster>Cileasy</webMaster><item><title>关于梯子使用不完全攻略。。。。。。</title><link>https://cileasy.github.io/post/guan-yu-ti-zi-shi-yong-bu-wan-quan-gong-lve-%E3%80%82%E3%80%82%E3%80%82%E3%80%82%E3%80%82%E3%80%82.html</link><description>## 一、windows平台
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Cileasy</title><link>https://cileasy.github.io</link><description>📸岁月剪影：定格瞬间，珍藏永恒，以梦为马，书写人生</description><copyright>Cileasy</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn4.iconfinder.com/data/icons/space-technology-26/50/39_captain_badge_wrist_badge_badge_captain_C_alphabet-64.png</url><title>avatar</title><link>https://cileasy.github.io</link></image><lastBuildDate>Fri, 10 Apr 2026 11:53:52 +0000</lastBuildDate><managingEditor>Cileasy</managingEditor><ttl>60</ttl><webMaster>Cileasy</webMaster><item><title>关于梯子使用不完全攻略。。。。。。</title><link>https://cileasy.github.io/post/guan-yu-ti-zi-shi-yong-bu-wan-quan-gong-lve-%E3%80%82%E3%80%82%E3%80%82%E3%80%82%E3%80%82%E3%80%82.html</link><description>## 一、windows平台
 *注：建议注册一个谷歌邮箱（需翻墙，可以使用国内手机号，几乎国外所有平台可以支持用谷歌邮箱一键登录，国内审查不到，用户名不要填可国内平台相关的内容）：[谷歌邮箱注册地址](https://workspace.google.com/intl/zh-CN/gmail/)*
 
 * **代理软件：[V2rayN](https://cloud.987531.xyz/s/RkFN)**
 * **订阅链接1（任选其一）：https://hjdy.987531.xyz/sub?token=1768a77f7d9147f8467c01a8704c1199**
-* **订阅链接2（任选其一）：https://d.zrf.me/lsm**
+* **订阅链接2（任选其一）：https://hsadt4309yuh.chinat.eu.org/sub?uuid=26524cce-d514-4014-a426-365fb266a14d&amp;host=k8egev.api-node-a1.gfw.hidns.co&amp;path=/danfeng?ed=2560&amp;ech=1**
 * #### 软件使用：
 
 * [ ] **下载并运行客户端：下载后解压，运行 `v2rayN.exe` 启动软件。</description><guid isPermaLink="true">https://cileasy.github.io/post/guan-yu-ti-zi-shi-yong-bu-wan-quan-gong-lve-%E3%80%82%E3%80%82%E3%80%82%E3%80%82%E3%80%82%E3%80%82.html</guid><pubDate>Fri, 05 Sep 2025 19:20:43 +0000</pubDate></item><item><title>网页视频下载不完全攻略。。。。</title><link>https://cileasy.github.io/post/wang-ye-shi-pin-xia-zai-bu-wan-quan-gong-lve-%E3%80%82%E3%80%82%E3%80%82%E3%80%82.html</link><description>## 提供四种下载方法
@@ -69,13 +69,9 @@ _在输入框粘贴网页链接解析下载_
     
     ### 订阅链接1（汇聚订阅）：https://hjdy.987531.xyz/sub?token=1768a77f7d9147f8467c01a8704c1199
 
-    ### 订阅链接2（Cloudflare）：https://cf.987531.xyz/CI/sub
-    
-    ### 订阅链接3（周润发优选）：https://d.zrf.me/lsm
+    ### 订阅链接2（DanFeng）：https://hsadt4309yuh.chinat.eu.org/sub?uuid=26524cce-d514-4014-a426-365fb266a14d&amp;host=k8egev.api-node-a1.gfw.hidns.co&amp;path=/danfeng?ed=2560&amp;ech=1
 
-    ### 订阅链接4（peige）：https://peige.dpkj.qzz.io/dapei
 
-    ### 订阅链接5（subcheck）：https://subcheck.say.xx.kg/download/sub
     
     
 - # 自由上网浏览器（'Alvin9999'大佬的项目-自行研究）：解压直接运行
@@ -90,7 +86,7 @@ _在输入框粘贴网页链接解析下载_
     [nthLink-ios-需美区ID](https://apps.apple.com/us/app/nthlink/id1467297604)
     [nthLink-Mac](https://apps.apple.com/us/app/nthlink/id1536318872?mt=12)
     
-- # ss免费账号：搭配V2ray等代理软件使用
+- # ss免费账号：搭配V2ray、karing等代理软件使用
     
     [获取SS账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
     
