@@ -16,7 +16,7 @@ linux端：
 给权限
 `chmod 777 ./linuxclientinstall.sh`
 运行脚本
-./linuxclientinstall.sh
+`./linuxclientinstall.sh`
 _终端会自动安装软件并配置好中继服务器_
 
 安卓和IOS端搜索rustdesk下载安装，并将最上面的中继服务器配置信息，填入软件就可以了。
