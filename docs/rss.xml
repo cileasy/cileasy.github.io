@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Cileasy</title><link>https://cileasy.github.io</link><description>📸岁月剪影：定格瞬间，珍藏永恒，以梦为马，书写人生</description><copyright>Cileasy</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn4.iconfinder.com/data/icons/space-technology-26/50/39_captain_badge_wrist_badge_badge_captain_C_alphabet-64.png</url><title>avatar</title><link>https://cileasy.github.io</link></image><lastBuildDate>Sat, 23 May 2026 13:58:29 +0000</lastBuildDate><managingEditor>Cileasy</managingEditor><ttl>60</ttl><webMaster>Cileasy</webMaster><item><title>Rustdes中继服务</title><link>https://cileasy.github.io/post/Rustdes-zhong-ji-fu-wu.html</link><description>**一、服务端配置信息**
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Cileasy</title><link>https://cileasy.github.io</link><description>📸岁月剪影：定格瞬间，珍藏永恒，以梦为马，书写人生</description><copyright>Cileasy</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn4.iconfinder.com/data/icons/space-technology-26/50/39_captain_badge_wrist_badge_badge_captain_C_alphabet-64.png</url><title>avatar</title><link>https://cileasy.github.io</link></image><lastBuildDate>Sat, 23 May 2026 15:21:13 +0000</lastBuildDate><managingEditor>Cileasy</managingEditor><ttl>60</ttl><webMaster>Cileasy</webMaster><item><title>Rustdesk中继服务</title><link>https://cileasy.github.io/post/Rustdesk-zhong-ji-fu-wu.html</link><description>**一、服务端配置信息**
 ID服务器和中继服务器：2.27.133.246
 API服务器：https://2.27.133.246
 Key：AEjfg6zcdmELXp3oZuGXU0j7atB5byIWYGGsYJVrPEc=
@@ -21,7 +21,7 @@ linux端：
 `./linuxclientinstall.sh`
 _终端会自动安装软件并配置好中继服务器_
 
-安卓和IOS端搜索rustdesk下载安装，并将最上面的中继服务器配置信息，填入软件。</description><guid isPermaLink="true">https://cileasy.github.io/post/Rustdes-zhong-ji-fu-wu.html</guid><pubDate>Sat, 23 May 2026 13:39:42 +0000</pubDate></item><item><title>关于梯子使用不完全攻略。。。。。。</title><link>https://cileasy.github.io/post/guan-yu-ti-zi-shi-yong-bu-wan-quan-gong-lve-%E3%80%82%E3%80%82%E3%80%82%E3%80%82%E3%80%82%E3%80%82.html</link><description>## 一、windows平台
+安卓和IOS端搜索rustdesk下载安装，并将最上面的中继服务器配置信息，填入软件。</description><guid isPermaLink="true">https://cileasy.github.io/post/Rustdesk-zhong-ji-fu-wu.html</guid><pubDate>Sat, 23 May 2026 13:39:42 +0000</pubDate></item><item><title>关于梯子使用不完全攻略。。。。。。</title><link>https://cileasy.github.io/post/guan-yu-ti-zi-shi-yong-bu-wan-quan-gong-lve-%E3%80%82%E3%80%82%E3%80%82%E3%80%82%E3%80%82%E3%80%82.html</link><description>## 一、windows平台
 *注：建议注册一个谷歌邮箱（需翻墙，可以使用国内手机号，几乎国外所有平台可以支持用谷歌邮箱一键登录，国内审查不到，用户名不要填可国内平台相关的内容）：[谷歌邮箱注册地址](https://workspace.google.com/intl/zh-CN/gmail/)*
 
 * **代理软件：[V2rayN](https://isdoc.987531.xyz/windows/V2rayN-windows-64.zip)**
