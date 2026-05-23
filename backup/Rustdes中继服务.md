@@ -11,7 +11,7 @@ _下载上方的windows配置文件（WindowsAgentAIOInstall.ps1），右键使�
 终端会自动安装软件并配置好中继服务器_
 
 linux端：
-[linux端配置脚本](https://isdoc.987531.xyz/other/Rustdesk/linuxclientinstall.sh)
+[linux端配置脚本](https://isalist.987531.xyz/d/Me/wj/other/Rustdesk/linuxclientinstall.sh?sign=U1__oMcYWwFTvQ5pig_fMQeqesa5ng2734FWvthExBU=:0)
 1,下载Linux端配置脚本（linuxclientinstall.sh)
 `wget https://isdoc.987531.xyz/other/Rustdesk/linuxclientinstall.sh`
 2,给权限

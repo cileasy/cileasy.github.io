@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Cileasy</title><link>https://cileasy.github.io</link><description>📸岁月剪影：定格瞬间，珍藏永恒，以梦为马，书写人生</description><copyright>Cileasy</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn4.iconfinder.com/data/icons/space-technology-26/50/39_captain_badge_wrist_badge_badge_captain_C_alphabet-64.png</url><title>avatar</title><link>https://cileasy.github.io</link></image><lastBuildDate>Sat, 23 May 2026 13:53:18 +0000</lastBuildDate><managingEditor>Cileasy</managingEditor><ttl>60</ttl><webMaster>Cileasy</webMaster><item><title>Rustdes中继服务</title><link>https://cileasy.github.io/post/Rustdes-zhong-ji-fu-wu.html</link><description>**一、服务端配置信息**
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Cileasy</title><link>https://cileasy.github.io</link><description>📸岁月剪影：定格瞬间，珍藏永恒，以梦为马，书写人生</description><copyright>Cileasy</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn4.iconfinder.com/data/icons/space-technology-26/50/39_captain_badge_wrist_badge_badge_captain_C_alphabet-64.png</url><title>avatar</title><link>https://cileasy.github.io</link></image><lastBuildDate>Sat, 23 May 2026 13:55:10 +0000</lastBuildDate><managingEditor>Cileasy</managingEditor><ttl>60</ttl><webMaster>Cileasy</webMaster><item><title>Rustdes中继服务</title><link>https://cileasy.github.io/post/Rustdes-zhong-ji-fu-wu.html</link><description>**一、服务端配置信息**
 ID服务器和中继服务器：2.27.133.246
 API服务器：https://2.27.133.246
 Key：AEjfg6zcdmELXp3oZuGXU0j7atB5byIWYGGsYJVrPEc=
@@ -12,7 +12,7 @@ _下载上方的windows配置文件（WindowsAgentAIOInstall.ps1），右键使�
 终端会自动安装软件并配置好中继服务器_
 
 linux端：
-[linux端配置脚本](https://isdoc.987531.xyz/other/Rustdesk/linuxclientinstall.sh)
+[linux端配置脚本](https://isalist.987531.xyz/d/Me/wj/other/Rustdesk/linuxclientinstall.sh?sign=U1__oMcYWwFTvQ5pig_fMQeqesa5ng2734FWvthExBU=:0)
 1,下载Linux端配置脚本（linuxclientinstall.sh)
 `wget https://isdoc.987531.xyz/other/Rustdesk/linuxclientinstall.sh`
 2,给权限
