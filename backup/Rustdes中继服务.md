@@ -6,16 +6,17 @@ Key：AEjfg6zcdmELXp3oZuGXU0j7atB5byIWYGGsYJVrPEc=
 **二、配置客户端**
 
 windows端：
-[windows配置文件](http://2.27.133.246:33203/other/Rustdesk/WindowsAgentAIOInstall.ps1)
+[windows配置文件](https://isalist.987531.xyz/d/Me/wj/other/Rustdesk/WindowsAgentAIOInstall.ps1?sign=AKet6_bgddGR3gc8fI7qJPfVi0wM01R715HB8AGEFc8=:0)
 _下载上方的windows配置文件（WindowsAgentAIOInstall.ps1），右键使用PowerShell打开，
 终端会自动安装软件并配置好中继服务器_
 
 linux端：
-下载Linux端配置文件（linuxclientinstall.sh)
-`wget http://2.27.133.246:33203/other/Rustdesk/linuxclientinstall.sh`
-给权限
+[linux端配置脚本](https://isdoc.987531.xyz/other/Rustdesk/linuxclientinstall.sh)
+1,下载Linux端配置脚本（linuxclientinstall.sh)
+`wget https://isdoc.987531.xyz/other/Rustdesk/linuxclientinstall.sh`
+2,给权限
 `chmod 777 ./linuxclientinstall.sh`
-运行脚本
+3,运行脚本
 `./linuxclientinstall.sh`
 _终端会自动安装软件并配置好中继服务器_
 
