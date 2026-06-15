@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Cileasy</title><link>https://cileasy.github.io</link><description>📸岁月剪影：定格瞬间，珍藏永恒，以梦为马，书写人生</description><copyright>Cileasy</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn4.iconfinder.com/data/icons/space-technology-26/50/39_captain_badge_wrist_badge_badge_captain_C_alphabet-64.png</url><title>avatar</title><link>https://cileasy.github.io</link></image><lastBuildDate>Mon, 15 Jun 2026 15:49:48 +0000</lastBuildDate><managingEditor>Cileasy</managingEditor><ttl>60</ttl><webMaster>Cileasy</webMaster><item><title>公益Rustdesk中继服务</title><link>https://cileasy.github.io/post/gong-yi-Rustdesk-zhong-ji-fu-wu.html</link><description>**服务端配置信息-在设置中填入即可**
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Cileasy</title><link>https://cileasy.github.io</link><description>📸岁月剪影：定格瞬间，珍藏永恒，以梦为马，书写人生</description><copyright>Cileasy</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn4.iconfinder.com/data/icons/space-technology-26/50/39_captain_badge_wrist_badge_badge_captain_C_alphabet-64.png</url><title>avatar</title><link>https://cileasy.github.io</link></image><lastBuildDate>Mon, 15 Jun 2026 15:52:20 +0000</lastBuildDate><managingEditor>Cileasy</managingEditor><ttl>60</ttl><webMaster>Cileasy</webMaster><item><title>公益Rustdesk中继服务</title><link>https://cileasy.github.io/post/gong-yi-Rustdesk-zhong-ji-fu-wu.html</link><description>**服务端配置信息-在设置中填入即可**
 ID 服务器地址：43.198.82.15:21116
 中继服务器地址：43.198.82.15:21117
 API 服务器地址：http://43.198.82.15:21114
@@ -81,9 +81,9 @@ _在输入框粘贴网页链接解析下载_
 
 - # 代理：搭配V2ray等代理软件使用
     
-    ### 订阅链接1（汇聚订阅）：https://hjdy.987531.xyz/sub?token=1768a77f7d9147f8467c01a8704c1199
+    ###我的订阅链接：https://hjdy.987531.xyz/sub?token=1768a77f7d9147f8467c01a8704c1199
 
-    ### 订阅链接2（DanFeng）：https://hsadt4309yuh.chinat.eu.org/sub?uuid=26524cce-d514-4014-a426-365fb266a14d&amp;host=k8egev.api-node-a1.gfw.hidns.co&amp;path=/danfeng?ed=2560&amp;ech=1
+
 
 
     
