@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Cileasy</title><link>https://cileasy.github.io</link><description>📸岁月剪影：定格瞬间，珍藏永恒，以梦为马，书写人生</description><copyright>Cileasy</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn4.iconfinder.com/data/icons/space-technology-26/50/39_captain_badge_wrist_badge_badge_captain_C_alphabet-64.png</url><title>avatar</title><link>https://cileasy.github.io</link></image><lastBuildDate>Mon, 15 Jun 2026 19:46:33 +0000</lastBuildDate><managingEditor>Cileasy</managingEditor><ttl>60</ttl><webMaster>Cileasy</webMaster><item><title>公益Rustdesk中继服务</title><link>https://cileasy.github.io/post/gong-yi-Rustdesk-zhong-ji-fu-wu.html</link><description>**服务端配置信息-在设置中填入即可**
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Cileasy</title><link>https://cileasy.github.io</link><description>📸岁月剪影：定格瞬间，珍藏永恒，以梦为马，书写人生</description><copyright>Cileasy</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn4.iconfinder.com/data/icons/space-technology-26/50/39_captain_badge_wrist_badge_badge_captain_C_alphabet-64.png</url><title>avatar</title><link>https://cileasy.github.io</link></image><lastBuildDate>Thu, 25 Jun 2026 03:26:25 +0000</lastBuildDate><managingEditor>Cileasy</managingEditor><ttl>60</ttl><webMaster>Cileasy</webMaster><item><title>公益Rustdesk中继服务</title><link>https://cileasy.github.io/post/gong-yi-Rustdesk-zhong-ji-fu-wu.html</link><description>**服务端配置信息-在设置中填入即可**
 ID 服务器地址：43.198.82.15:21116
 中继服务器地址：43.198.82.15:21117
 API 服务器地址：http://43.198.82.15:21114
@@ -82,8 +82,10 @@ _在输入框粘贴网页链接解析下载_
 - ### 代理：搭配V2ray等代理软件使用
   **我的订阅链接：https://hjdy.987531.xyz/sub?token=1768a77f7d9147f8467c01a8704c1199**
 
-- ### 自由上网浏览器（“Alvin9999”大佬的项目-自行研究）：解压直接运行
-   [自由上网浏览器-已失效](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88/)
+- ### 自由上网浏览器（“[Alvin9999](https://github.com/Alvin9999-newpac)”大佬的项目-自行研究）：解压直接运行
+   [谷歌翻墙浏览器高内核版](https://alvin9999.com/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88/)
+   [Supermium翻墙浏览器](https://alvin9999.com/supermium%E8%87%AA%E7%94%B1%E4%B8%8A%E7%BD%91%E6%B5%8F%E8%A7%88%E5%99%A8/)
+   [火狐翻墙浏览器高内核版](https://alvin9999.com/%E7%81%AB%E7%8B%90%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88/)
  
 - ### 开源免费vpn软件（安卓、Windows、Mac等）
     [遗忘-安卓版](https://github.com/bepass-org/oblivion/releases/download/v7/oblivion-v7-signed.apk)
@@ -92,8 +94,8 @@ _在输入框粘贴网页链接解析下载_
     [nthLink-ios-需美区ID](https://apps.apple.com/us/app/nthlink/id1467297604)
     [nthLink-Mac](https://apps.apple.com/us/app/nthlink/id1536318872?mt=12)
     
-- ### ss免费账号：搭配V2ray、karing等代理软件使用
-    [获取SS账号-已失效](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)。</description><guid isPermaLink="true">https://cileasy.github.io/post/gong-yi-ke-xue-shang-wang-%E3%80%81-chi-cheng-zai-zi-you-de-wang-luo-shi-jie.html</guid><pubDate>Sat, 28 Jun 2025 14:25:13 +0000</pubDate></item><item><title>谷歌云服务器不用自带SSH连接</title><link>https://cileasy.github.io/post/gu-ge-yun-fu-wu-qi-bu-yong-zi-dai-SSH-lian-jie.html</link><description># 修改ssh配置文件并设置root密码
+- ### 公益节点：搭配V2ray、karing等代理软件使用
+    [获取公益节点](https://alvin9999.com/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7/)。</description><guid isPermaLink="true">https://cileasy.github.io/post/gong-yi-ke-xue-shang-wang-%E3%80%81-chi-cheng-zai-zi-you-de-wang-luo-shi-jie.html</guid><pubDate>Sat, 28 Jun 2025 14:25:13 +0000</pubDate></item><item><title>谷歌云服务器不用自带SSH连接</title><link>https://cileasy.github.io/post/gu-ge-yun-fu-wu-qi-bu-yong-zi-dai-SSH-lian-jie.html</link><description># 修改ssh配置文件并设置root密码
 
 1、用自带的SSH登录到服务器
 
